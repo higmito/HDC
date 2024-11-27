@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+.navbar-brand{
+    height: 10vh;
+    font-family: Manrope;
+    font-size: 20px;
+    color: black;
+}
+table{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Manrope;
+    font-size: 20px;
+}
+.cartoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cards{
+    margin-top: 10%;
+    margin-left: 40%;
+    width: 20%;
+    height: 50vh;
+    text-align: center;
+    padding-top: 3%;
+    border-radius: 10%;
+}
+
+.cards img{
+    height: 20vh;
+    border-radius: 50%;
+}
+
+.informacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Manrope;
+    font-size: 20px;
+    padding-top: 7px;
+    color: black;
+}
+footer{
+    margin-top: 20%;
+    margin-bottom: -5%;
+    font-family: Manrope;
+    font-size: 20px;
+    color: white;
+}
+
+.inicio{
+    margin-top: 5%;
+}
+
+footer a:hover{
+    color: beige;
+}
